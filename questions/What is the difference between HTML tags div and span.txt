@@ -1,0 +1,9 @@
+div is a block element
+span is an inline element.
+
+This means that to use them semantically, divs should be used to wrap sections of a document, while spans should be used to wrap small portions of text, images, etc.
+
+If you wanted to do something with some inline text, <span> is the way to go since it will not introduce line breaks that a <div> would.
+
+As noted by others, there are some semantics implied with each of these, most significantly the fact that a <div> implies a logical division in the document, akin to maybe a section of a document (this is very important in my opinion).
+
