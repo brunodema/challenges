@@ -1,3 +1,10 @@
 add_executable(invert_binary_tree invert_binary_tree.cpp)
 add_executable(fizzbuzz fizzbuzz.cpp)
 add_executable(sock_merchant sock_merchant.cpp)
+add_executable(fibonacci fibonacci.cpp)
+add_executable(davis_staircase davis_staircase.cpp)
+add_executable(knight_tour knight_tour.cpp)
+add_executable(sudoku sudoku.cpp)
+add_executable(tree_level_order_traversal tree_level_order_traversal.cpp)
+
+add_executable(test test.cpp)
