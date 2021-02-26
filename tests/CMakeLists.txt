@@ -7,4 +7,5 @@ add_executable(knight_tour knight_tour.cpp)
 add_executable(sudoku sudoku.cpp)
 add_executable(tree_level_order_traversal tree_level_order_traversal.cpp)
 
-add_executable(test test.cpp)
+add_executable(test1 test1.cpp)
+add_executable(test2 test2.cpp)
